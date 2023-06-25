@@ -1,12 +1,13 @@
-![Alt text](https://media1.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif)
+![image](https://media1.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif)
 
-# <b>***Embedded system online diploma***</b><br>
+
+# ***Embedded system online diploma***
 
 I really like using Markdown.
 I think I'll use it to format all of my documents from now on.
 
 ---
-# **Curriculum and Course Content:**
+## **Curriculum and Course Content:**
 
 ### **First Term** ![image](https://progress-bar.dev/20/?title=Working%20progress)
 
