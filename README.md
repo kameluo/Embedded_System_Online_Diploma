@@ -1,4 +1,4 @@
-[![image](https://media1.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif) "hello"](https://giphy.com/gifs/3d-development-isometric-PiuL0MyzhlQv9fkNrY?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)
+[![image](https://media1.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif) "hello"](https://media1.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif)
 
 
 # ***Embedded system online diploma***
