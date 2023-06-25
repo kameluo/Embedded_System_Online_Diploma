@@ -1,4 +1,4 @@
-[![image](https://github.com/kameluo/Embedded_System_Online_Diploma/blob/master/topPagePic.gif) "hello"](https://media1.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif)
+[![image](https://github.com/kameluo/Embedded_System_Online_Diploma/blob/master/topPagePic.gif) ](https://media1.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif)
 
 # ***Embedded system online diploma***
 
